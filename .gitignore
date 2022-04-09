@@ -1,6 +1,10 @@
 ### my created ###
 
-2022*
+**/*
+!.gitignore
+!*.md
+2022-02-27.md
+2022-03-19.md
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
